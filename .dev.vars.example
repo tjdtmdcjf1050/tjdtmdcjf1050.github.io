@@ -1,0 +1,5 @@
+ADMIN_USERNAME=growbook-admin
+ADMIN_PASSWORD=GrowBook-local-2026!
+ADMIN_SESSION_SECRET=growbook-local-session-secret-change-before-sharing
+ADMIN_COOKIE_SECURE=false
+SCHEDULED_JOB_SECRET=growbook-local-scheduled-job-secret-change-before-sharing

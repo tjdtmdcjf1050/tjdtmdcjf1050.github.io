@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1783994718852,
+      "tag": "0000_abnormal_slyde",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1783995767527,
+      "tag": "0001_loose_sumo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1783996514669,
+      "tag": "0002_purple_midnight",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1783996860540,
+      "tag": "0003_material_silver_fox",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1783999034781,
+      "tag": "0004_lethal_newton_destine",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1784016000000,
+      "tag": "0005_post_revisions",
+      "breakpoints": true
+    }
+  ]
+}

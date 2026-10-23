@@ -1,0 +1,1 @@
+import { clearUserSession } from "../../../chatgpt-auth";export async function GET(request:Request){await clearUserSession();const u=new URL(request.url);const path=(u.searchParams.get("returnTo")||"/");return Response.redirect(new URL(path.startsWith("/")?path:"/",u.origin),303)}
